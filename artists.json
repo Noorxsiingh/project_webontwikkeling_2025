@@ -22,7 +22,7 @@
       "leeftijd": 30,
       "actief": true,
       "geboortedatum": "1992-05-11",
-      "image_url": "/images/AmmyVirk.jpg",
+      "image_url": "https://raw.githubusercontent.com/Noorxsiingh/project_webontwikkeling_2025/refs/heads/main/images/AmmyVirk.jpg",
       "genre": "Bhangra",
       "hobby's": ["Acteren", "Muziek", "Fitness"],
       "contact": {
@@ -38,7 +38,7 @@
       "leeftijd": 41,
       "actief": true,
       "geboortedatum": "1984-01-06",
-      "image_url": "/images/DiljitDosanjh.jpg",
+      "image_url": "https://raw.githubusercontent.com/Noorxsiingh/project_webontwikkeling_2025/refs/heads/main/images/DiljitDosanjh.jpg",
       "genre": "Pop, Bhangra",
       "hobby's": ["Mode", "Reizen", "Muziek"],
       "contact": {
@@ -54,7 +54,7 @@
       "leeftijd": 28,
       "actief": true,
       "geboortedatum": "1995-01-01",
-      "image_url": "/images/ApDhillon.jpg",
+      "image_url": "https://raw.githubusercontent.com/Noorxsiingh/project_webontwikkeling_2025/refs/heads/main/images/ApDhillon.jpg",
       "genre": "Hip-hop, R&B",
       "hobby's": ["Muziek", "Sport", "Reizen"],
       "contact": {
@@ -70,7 +70,7 @@
       "leeftijd": 31,
       "actief": true,
       "geboortedatum": "1992-10-21",
-      "image_url": "/images/MickeySingh.jpg",
+      "image_url": "https://raw.githubusercontent.com/Noorxsiingh/project_webontwikkeling_2025/refs/heads/main/images/MickeySingh.jpg",
       "genre": "R&B, Hip-hop",
       "hobby's": ["Muziek", "Reizen", "Mode"],
       "contact": {
@@ -86,7 +86,7 @@
       "leeftijd": 39,
       "actief": true,
       "geboortedatum": "1995-10-25",
-      "image_url": "/images/TeggiPannu.jpg",
+      "image_url": "https://raw.githubusercontent.com/Noorxsiingh/project_webontwikkeling_2025/refs/heads/main/images/TeggiPannu.jpg",
       "genre": "Hip-hop",
       "hobby's": ["Rappen", "Componeren", "Mode"],
       "contact": {
@@ -102,7 +102,7 @@
       "leeftijd": 34,
       "actief": true,
       "geboortedatum": "1989-07-04",
-      "image_url": "/images/Sukha.jpg",
+      "image_url": "https://raw.githubusercontent.com/Noorxsiingh/project_webontwikkeling_2025/refs/heads/main/images/Sukha.jpg",
       "genre": "Bhangra, Hip-hop",
       "hobby's": ["Muziek", "Reizen", "Film"],
       "contact": {
@@ -118,7 +118,7 @@
       "leeftijd": 26,
       "actief": true,
       "geboortedatum": "1997-04-25",
-      "image_url": "/images/RafSaperra.jpg",
+      "image_url": "https://raw.githubusercontent.com/Noorxsiingh/project_webontwikkeling_2025/refs/heads/main/images/RafSaperra.jpg",
       "genre": "Punjabi, Hip-hop",
       "hobby's": ["Muziek", "Schrijven", "Sport"],
       "contact": {
@@ -134,7 +134,7 @@
       "leeftijd": 28,
       "actief": false,
       "geboortedatum": "1993-06-11",
-      "image_url": "/images/SidhuMooseWala.jpg",
+      "image_url": "https://raw.githubusercontent.com/Noorxsiingh/project_webontwikkeling_2025/refs/heads/main/images/SidhuMooseWala.jpg",
       "genre": "Hip-hop, Bhangra",
       "hobby's": ["Muziek", "Reizen", "Schrijven"],
       "contact": {
@@ -150,7 +150,7 @@
       "leeftijd": 52,
       "actief": true,
       "geboortedatum": "1997-11-15",
-      "image_url": "images/images/PavitarLassoi.jpg",
+      "image_url": "https://raw.githubusercontent.com/Noorxsiingh/project_webontwikkeling_2025/refs/heads/main/images/PavitarLassoi.jpg",
       "genre": "Bhangra, Punjabi",
       "hobby's": ["Muziek", "Film", "Reizen"],
       "contact": {
