@@ -9,5 +9,45 @@
         "id": "A002",
         "telefoon": "+91-9876543210",
         "social_media": ["https://twitter.com/ammyvirk", "https://instagram.com/ammyvirk"]
-    }
+    },
+    {
+        "id": "A003",
+        "telefoon": "+91-1122334455",
+        "social_media": ["https://twitter.com/diljitdosanjh", "https://instagram.com/diljitdosanjh"]
+    },
+    {
+        "id": "A004",
+        "telefoon": "+91-3344556677",
+        "social_media": ["https://twitter.com/apdhillon", "https://instagram.com/apdhillon"]
+    },
+    {
+        "id": "A005",
+        "telefoon": "+91-4433221100",
+        "social_media": ["https://twitter.com/mickysingh", "https://instagram.com/mickysingh"]
+    },
+    {
+        "id": "A006",
+        "telefoon": "+91-5566778899",
+        "social_media": ["https://twitter.com/badboyshah", "https://instagram.com/badboyshah"]
+    },
+    {
+        "id": "A007",
+        "telefoon": "+91-6677889900",
+        "social_media": ["https://twitter.com/sukhapunjabi", "https://instagram.com/sukhapunjabi"]
+    },
+    {
+        "id": "A008",
+        "telefoon": "+91-8899776655",
+        "social_media": ["https://twitter.com/rafsaperra", "https://instagram.com/rafsaperra"]
+    },
+    {
+        "id": "A009",
+        "telefoon": "+91-1234678900",
+        "social_media": ["https://twitter.com/sidhu_moosewala", "https://instagram.com/sidhu_moosewala"]
+    },
+    {
+        "id": "A010",
+        "telefoon": "+91-9988776655",
+        "social_media": ["https://twitter.com/sukhwinder_singh", "https://instagram.com/sukhwinder_singh"]
+    }   
 ]
