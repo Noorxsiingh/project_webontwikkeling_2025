@@ -22,7 +22,7 @@
       "leeftijd": 30,
       "actief": true,
       "geboortedatum": "1992-05-11",
-      "image_url": "images/images/ammy_virk.jpg",
+      "image_url": "/images/AmmyVirk.jpg",
       "genre": "Bhangra",
       "hobby's": ["Acteren", "Muziek", "Fitness"],
       "contact": {
@@ -38,7 +38,7 @@
       "leeftijd": 41,
       "actief": true,
       "geboortedatum": "1984-01-06",
-      "image_url": "images/images/diljit_dosanjh.jpg",
+      "image_url": "/images/DiljitDosanjh.jpg",
       "genre": "Pop, Bhangra",
       "hobby's": ["Mode", "Reizen", "Muziek"],
       "contact": {
@@ -54,7 +54,7 @@
       "leeftijd": 28,
       "actief": true,
       "geboortedatum": "1995-01-01",
-      "image_url": "images/images/ap_dhillon.jpg",
+      "image_url": "/images/ApDhillon.jpg",
       "genre": "Hip-hop, R&B",
       "hobby's": ["Muziek", "Sport", "Reizen"],
       "contact": {
@@ -70,7 +70,7 @@
       "leeftijd": 31,
       "actief": true,
       "geboortedatum": "1992-10-21",
-      "image_url": "images/images/mickey_singh.jpg",
+      "image_url": "/images/MickeySingh.jpg",
       "genre": "R&B, Hip-hop",
       "hobby's": ["Muziek", "Reizen", "Mode"],
       "contact": {
@@ -81,18 +81,18 @@
     },
     {
       "id": "6",
-      "naam": "Badshah",
-      "beschrijving": "Badshah is een van de meest populaire rappers in India, bekend om zijn succesvolle hits in zowel Punjabi als Bollywood muziek.",
+      "naam": "Teggi Pannu",
+      "beschrijving": "Teggi Pannu is een Punjabi zanger die bekend is om zijn populaire muziek en unieke stijl binnen de Punjabi muziekcultuur.",
       "leeftijd": 39,
       "actief": true,
-      "geboortedatum": "1985-11-19",
-      "image_url": "images/images/badshah.jpg",
-      "genre": "Hip-hop, Bollywood",
+      "geboortedatum": "1995-10-25",
+      "image_url": "/images/TeggiPannu.jpg",
+      "genre": "Hip-hop",
       "hobby's": ["Rappen", "Componeren", "Mode"],
       "contact": {
         "id": "A006",
         "telefoon": "+91-5566778899",
-        "social_media": ["https://twitter.com/badboyshah", "https://instagram.com/badboyshah"]
+        "social_media": ["https://twitter.com/teggipannu", "https://instagram.com/teggipannu"]
       }
     },
     {
@@ -102,7 +102,7 @@
       "leeftijd": 34,
       "actief": true,
       "geboortedatum": "1989-07-04",
-      "image_url": "images/images/sukha.jpg",
+      "image_url": "/images/Sukha.jpg",
       "genre": "Bhangra, Hip-hop",
       "hobby's": ["Muziek", "Reizen", "Film"],
       "contact": {
@@ -118,7 +118,7 @@
       "leeftijd": 26,
       "actief": true,
       "geboortedatum": "1997-04-25",
-      "image_url": "images/images/raf_saperra.jpg",
+      "image_url": "/images/RafSaperra.jpg",
       "genre": "Punjabi, Hip-hop",
       "hobby's": ["Muziek", "Schrijven", "Sport"],
       "contact": {
@@ -134,7 +134,7 @@
       "leeftijd": 28,
       "actief": false,
       "geboortedatum": "1993-06-11",
-      "image_url": "images/images/sidhu_moosewala.jpg",
+      "image_url": "/images/SidhuMooseWala.jpg",
       "genre": "Hip-hop, Bhangra",
       "hobby's": ["Muziek", "Reizen", "Schrijven"],
       "contact": {
@@ -145,18 +145,18 @@
     },
     {
       "id": "10",
-      "naam": "Sukhwinder Singh",
-      "beschrijving": "Sukhwinder Singh is een Indiase playbackzanger en een van de meest gevierde stemmen in zowel de Bollywood- als Punjabi muziekwereld.",
+      "naam": "Pavitar Lassoi",
+      "beschrijving": "Pavitar Lassoi is een Punjabi zanger die bekend staat om zijn melodieuze nummers en energieke optredens, waardoor hij een groeiende fanbase heeft binnen de Punjabi muziekscene. ",
       "leeftijd": 52,
       "actief": true,
-      "geboortedatum": "1972-07-18",
-      "image_url": "images/images/sukhwinder_singh.jpg",
-      "genre": "Bollywood, Punjabi",
+      "geboortedatum": "1997-11-15",
+      "image_url": "images/images/PavitarLassoi.jpg",
+      "genre": "Bhangra, Punjabi",
       "hobby's": ["Muziek", "Film", "Reizen"],
       "contact": {
         "id": "A010",
         "telefoon": "+91-9988776655",
-        "social_media": ["https://twitter.com/sukhwinder_singh", "https://instagram.com/sukhwinder_singh"]
+        "social_media": ["https://twitter.com/pavitarlassoi", "https://instagram.com/pavitarlassoi"]
       }
     }
   ]
