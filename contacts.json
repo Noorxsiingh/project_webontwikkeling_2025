@@ -1,0 +1,13 @@
+[
+    {
+        "id": "A001",
+        "telefoon": "+91-1234567890",
+        "social_media": ["https://twitter.com/karanaujla", "https://instagram.com/karan_aujla"]
+    },
+
+    {
+        "id": "A002",
+        "telefoon": "+91-9876543210",
+        "social_media": ["https://twitter.com/ammyvirk", "https://instagram.com/ammyvirk"]
+    }
+]
